@@ -16,4 +16,4 @@ pip install .
 ktest-error <directory>
 ```
 
-Where <directory> is the `klee-out-N` directory where Klee has outputted its tests.
+Where \<directory\> is the `klee-out-N` directory where Klee has outputted its tests.
